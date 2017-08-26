@@ -1,0 +1,21 @@
+{
+  "name": "contactlist",
+  "version": "1.0.0",
+  "description": "MEAN Stack App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run": "node app.js"
+  },
+  "author": "Aakash Kashyap",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "cors": "^2.8.4",
+    "express": "^4.15.4",
+    "mongoose": "^4.11.8",
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
